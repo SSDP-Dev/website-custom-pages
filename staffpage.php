@@ -171,7 +171,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442161719">
                                             <a href="https://ssdp.org/bio/rachel-wissner/" target="">
-                                                <div class="ult-team-member-image ultimate-heading5b22b1de8defc" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2018/06/rachel-wissner-headshot.png" alt=""><span class="ult-team-member-image-overlay "></span>
+                                                <div class="ult-team-member-image ultimate-heading5b22b1de8defc" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2018/06/Rachel-bw.jpg" alt=" "><span class="ult-team-member-image-overlay "></span>
                                                     <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de8defc .ult-team-member-description'
                                                         data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
                                                         <p></p>
@@ -348,7 +348,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442250137">
                                             <a href="https://ssdp.org/bio/hannah-procell/" target="">
-                                                <div class="ult-team-member-image ultimate-heading5b22b1de8f557" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2015/12/bw-hannah.jpeg" alt=""><span class="ult-team-member-image-overlay "></span>
+                                                <div class="ult-team-member-image ultimate-heading5b22b1de8f557" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2018/06/Hannah-bw.jpg" alt=""><span class="ult-team-member-image-overlay "></span>
                                                     <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de8f557 .ult-team-member-description'
                                                         data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
                                                         <p></p>
