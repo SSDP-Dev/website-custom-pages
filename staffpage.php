@@ -333,7 +333,7 @@
                             <p style="text-align: center;"></p>
                             <p></p>
                           </div>
-                      </a>
+                      </a>  
                       </div>
                       <div class="ult-team-member-bio-wrap style-3 ultimate-heading5b22b1de8f557" style="text-align:center;; ">
                         <div class="ult-team-member-name-wrap">
