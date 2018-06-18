@@ -390,7 +390,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442250137">
                                             <a href="https://ssdp.org/bio/nick-zettell/" target="">
-                                                <div class="ult-team-member-image ultimate-heading5b22b1de8f557" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2015/12/bw-nick.jpeg" alt=""><span class="ult-team-member-image-overlay "></span>
+                                                <div class="ult-team-member-image ultimate-heading5b22b1de8f557" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2018/06/nick.png" alt=""><span class="ult-team-member-image-overlay "></span>
                                                     <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de8f557 .ult-team-member-description'
                                                         data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
                                                         <p></p>
