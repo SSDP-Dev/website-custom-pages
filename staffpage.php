@@ -530,7 +530,7 @@
                     </div>
                     <div class="wpb_text_column wpb_content_element  vc_custom_1477558309947">
                       <div class="wpb_wrapper">
-                        <p style="text-align: center;"><span style="color: #808080;"><a href="/?page_id=29132">Bio &gt;</a></span></p>
+                        <p style="text-align: center;"><span style="color: #808080;"><a href="https://ssdp.org/bio/orsi-feher/">Bio &gt;</a></span></p>
                         <p>&nbsp;</p>
 
                       </div>
