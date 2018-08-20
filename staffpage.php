@@ -598,7 +598,7 @@
                           <a href="https://ssdp.org/bio/marisa-morales/" target="" style="text-decoration: none;">
                             <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de8f557 .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Marisa Morales '15</h2>
                           </a>
-                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">West Africa Global Fellow</div>
+                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Latin America Global Fellow</div>
 
                           <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de8f557 .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style=""></div>
                           <div style="margin-bottom:15px"></div>
