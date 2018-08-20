@@ -495,6 +495,141 @@
                 </div>
               </div>
             </div>
+            <!-- Global Fellows Row -->
+            <div class="vc_row wpb_row vc_row-fluid">
+
+              <!-- Orsi -->
+              <div class="wpb_column vc_column_container vc_col-sm-3">
+                <div class="vc_column-inner ">
+                  <div class="wpb_wrapper">
+                    <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442417837">
+                      <a href="https://ssdp.org/bio/orsi-feher/" target="">
+                        <div class="ult-team-member-image ultimate-heading5b22b1de939b7" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/img/orsi.jpg" alt=""><span class="ult-team-member-image-overlay "></span>
+                          <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de939b7 .ult-team-member-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
+                            <p></p>
+                            <p style="text-align: center;"></p>
+                            <p></p>
+                          </div>
+                      </a>
+                      </div>
+                      <div class="ult-team-member-bio-wrap style-3 ultimate-heading5b22b1de939b7" style="text-align:center;; ">
+                        <div class="ult-team-member-name-wrap">
+                          <a href="https://ssdp.org/bio/orsi-feher/" target="" style="text-decoration: none;">
+                            <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de939b7 .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Orsi Fehér '16</h2>
+                          </a>
+                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de939b7 .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Europe Global Fellow</div>
+                          <div style="margin-bottom:15px"></div>
+                          <div class='ult-social-buttons'><a href='mailto:orsi@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a>
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="boc_divider_holder">
+                      <div class="boc_divider  " style="margin-bottom: 18px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"><i class="icon icon-megaphone" style="font-size: 14px; line-height: 14px;color: #faa732;left: 50%; transform: translateY(-50%) translateX(-50%);background-color: #ffffff;padding: 10px;"></i></div>
+                    </div>
+                    <div class="wpb_text_column wpb_content_element  vc_custom_1477558309947">
+                      <div class="wpb_wrapper">
+                        <p style="text-align: center;"><span style="color: #808080;"><a href="/?page_id=29132">Bio &gt;</a></span></p>
+                        <p>&nbsp;</p>
+
+                      </div>
+                    </div>
+                    <div class="boc_spacing " style="height: 30px"></div>
+                  </div>
+                </div>
+              </div>
+              <!-- Moronfolu -->
+              <div class="wpb_column vc_column_container vc_col-sm-3">
+                <div class="vc_column-inner ">
+                  <div class="wpb_wrapper">
+                    <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442380691">
+                      <a href="https://ssdp.org/bio/tyler-williams/" target="">
+                        <div class="ult-team-member-image ultimate-heading5b22b1de929ba" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2015/12/bw-Tyler.jpeg" alt=""><span class="ult-team-member-image-overlay "></span>
+                          <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de929ba .ult-team-member-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
+                            <p></p>
+                            <p style="text-align: center;"></p>
+                            <p></p>
+                          </div>
+                      </a>
+                      </div>
+                      <div class="ult-team-member-bio-wrap style-3 ultimate-heading5b22b1de929ba" style="text-align:center;; ">
+                        <div class="ult-team-member-name-wrap">
+                          <a href="https://ssdp.org/bio/tyler-williams/" target="" style="text-decoration: none;">
+                            <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Tyler Williams '11</h2>
+                          </a>
+                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Engagement Manager</div>
+                          <div style="margin-bottom:15px"></div>
+                          <div class='ult-social-buttons'><a href='https://www.facebook.com/tylerwilliamsct' target='_blank' title='Facebook' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-facebook-square'></i></a>
+                            <a
+                              href='https://twitter.com/tylerwilliamsct' target='_blank' title='Twitter' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-twitter-square'></i></a><a href='mailto:tyler@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732'
+                                data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="boc_divider_holder">
+                      <div class="boc_divider  " style="margin-bottom: 20px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"><i class="icon icon-trophy" style="font-size: 16px; line-height: 16px;color: #faa732;left: 50%; transform: translateY(-50%) translateX(-50%);background-color: #ffffff;padding: 10px;"></i></div>
+                    </div>
+                    <div class="wpb_text_column wpb_content_element ">
+                      <div class="wpb_wrapper">
+                        <p style="text-align: center;"><span style="color: #808080;"><a href="https://ssdp.org/bio/tyler-williams">Bio &gt;</a></span></p>
+
+                      </div>
+                    </div>
+                    <div class="boc_spacing " style="height: 30px"></div>
+                  </div>
+                </div>
+              </div>
+              <!-- Marisa -->
+              <div class="wpb_column vc_column_container vc_col-sm-3">
+                <div class="vc_column-inner ">
+                  <div class="wpb_wrapper">
+                    <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442250137">
+                      <a href="https://ssdp.org/bio/nick-zettell/" target="">
+                        <div class="ult-team-member-image ultimate-heading5b22b1de8f557" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2018/06/Nick-bw.jpg" alt=""><span class="ult-team-member-image-overlay "></span>
+                          <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de8f557 .ult-team-member-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
+                            <p></p>
+                            <p style="text-align: center;"></p>
+                            <p></p>
+                          </div>
+                      </a>
+                      </div>
+                      <div class="ult-team-member-bio-wrap style-3 ultimate-heading5b22b1de8f557" style="text-align:center;; ">
+                        <div class="ult-team-member-name-wrap">
+                          <a href="https://ssdp.org/bio/nick-zettell/" target="" style="text-decoration: none;">
+                            <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de8f557 .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Nick Zettell '09</h2>
+                          </a>
+                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de8f557 .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style=""></div>
+                          <div style="margin-bottom:15px"></div>
+                          <div class='ult-social-buttons'><a href='mailto:nick@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="boc_divider_holder">
+                      <div class="boc_divider  " style="margin-bottom: 18px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"><i class="icon icon-megaphone" style="font-size: 14px; line-height: 14px;color: #faa732;left: 50%; transform: translateY(-50%) translateX(-50%);background-color: #ffffff;padding: 10px;"></i></div>
+                    </div>
+                    <div class="wpb_text_column wpb_content_element ">
+                      <div class="wpb_wrapper">
+                        <p style="text-align: center;"><span style="color: #808080;"><a href="https://ssdp.org/bio/nick-zettell">Bio &gt;</a></span></p>
+
+                      </div>
+                    </div>
+                    <div class="boc_spacing " style="height: 30px"></div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            <!-- Spacing Row -->
+            <div class="vc_row wpb_row vc_row-fluid">
+              <div class="wpb_column vc_column_container vc_col-sm-12">
+                <div class="vc_column-inner ">
+                  <div class="wpb_wrapper">
+                    <div class="boc_spacing " style="height: 20px"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
