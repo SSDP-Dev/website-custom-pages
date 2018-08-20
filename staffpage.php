@@ -544,8 +544,8 @@
                 <div class="vc_column-inner ">
                   <div class="wpb_wrapper">
                     <div class="ult-team-member-wrap ult-style-3   vc_custom_1503442380691">
-                      <a href="https://ssdp.org/bio/tyler-williams/" target="">
-                        <div class="ult-team-member-image ultimate-heading5b22b1de929ba" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/wp-content/uploads/2015/12/bw-Tyler.jpeg" alt=""><span class="ult-team-member-image-overlay "></span>
+                      <a href="https://ssdp.org/bio/moronfolu-adeniyi/" target="">
+                        <div class="ult-team-member-image ultimate-heading5b22b1de929ba" style="; background-color:#daf702" data-hover_opacity="0.1"> <img class="" src="https://ssdp.org/img/moronfolu.jpg" alt=""><span class="ult-team-member-image-overlay "></span>
                           <div class="ult-team-member-description ult-responsive" data-ultimate-target='.ult-team-member-image.ultimate-heading5b22b1de929ba .ult-team-member-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="; text-align:center;; ">
                             <p></p>
                             <p style="text-align: center;"></p>
@@ -555,15 +555,14 @@
                       </div>
                       <div class="ult-team-member-bio-wrap style-3 ultimate-heading5b22b1de929ba" style="text-align:center;; ">
                         <div class="ult-team-member-name-wrap">
-                          <a href="https://ssdp.org/bio/tyler-williams/" target="" style="text-decoration: none;">
-                            <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Tyler Williams '11</h2>
+                          <a href="https://ssdp.org/bio/moronfolu-adeniyi/" target="" style="text-decoration: none;">
+                            <h2 class="ult-team-member-name ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-name' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Moronfolu Adeniyi '14</h2>
                           </a>
-                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Engagement Manager</div>
+                          <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de929ba .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">West Africa Global Fellow</div>
                           <div style="margin-bottom:15px"></div>
-                          <div class='ult-social-buttons'><a href='https://www.facebook.com/tylerwilliamsct' target='_blank' title='Facebook' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-facebook-square'></i></a>
-                            <a
-                              href='https://twitter.com/tylerwilliamsct' target='_blank' title='Twitter' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-twitter-square'></i></a><a href='mailto:tyler@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732'
-                                data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a></div>
+                          <div class='ult-social-buttons'>
+                            <a href='mailto:moronfoul@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -572,7 +571,7 @@
                     </div>
                     <div class="wpb_text_column wpb_content_element ">
                       <div class="wpb_wrapper">
-                        <p style="text-align: center;"><span style="color: #808080;"><a href="https://ssdp.org/bio/tyler-williams">Bio &gt;</a></span></p>
+                        <p style="text-align: center;"><span style="color: #808080;"><a href="https://ssdp.org/bio/moronfolu-adeniyi">Bio &gt;</a></span></p>
 
                       </div>
                     </div>
