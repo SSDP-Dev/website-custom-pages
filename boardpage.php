@@ -458,7 +458,7 @@
 									<div class="ult-team-member-wrap ult-style-3   vc_custom_1485717883225">
 										<div class="ult-team-member-image ultimate-heading5ac2aafde1ff4" style="; background-color:#faa732" data-hover_opacity="0.1">
 											<a href="#samantha-melius">
-												<img class="" src="https://ssdp.org/wp-content/uploads/2018/10/Headshots-SSDP-2018-0346-XL.jpg" alt="">
+												<img class="" src="https://ssdp.org/wp-content/uploads/2018/10/Headshots-SSDP-2018-0346-XL-e1538433820679.jpg" alt="">
 												<span class="ult-team-member-image-overlay "></span>
 												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde1ff4 .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
 												  style="color:#ffffff;; text-align:center;; ">
@@ -491,45 +491,6 @@
 								</div>
 							</div>
 						</div>
-						<!-- Odunola -->
-						<div class="wpb_column vc_column_container vc_col-sm-2">
-							<div class="vc_column-inner ">
-								<div class="wpb_wrapper">
-									<div class="ult-team-member-wrap ult-style-3   vc_custom_1485931248421">
-										<div class="ult-team-member-image ultimate-heading5ac2aafde8f78" style="; background-color:#faa732" data-hover_opacity="0.1">
-											<a href="#odunola-oladejo">
-												<img class="" src="https://ssdp.org/wp-content/uploads/2018/04/OdunolaOladejo.jpg" alt="">
-												<span class="ult-team-member-image-overlay "></span>
-												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde8f78 .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
-												  style="color:#ffffff;; text-align:center;; ">
-													<p>
-														<em>SSDP Nigeria</em>
-													</p>
-												</div>
-											</a>
-										</div>
-										<div class="ult-team-member-bio-wrap style-3 ultimate-heading5ac2aafde8f78" style="text-align:center;; ">
-											<div class="ult-team-member-name-wrap">
-												<a href="#odunola-oladejo" style="text-decoration: none;">
-													<h2 class="ult-team-member-name ult-responsive" data-ultimate-target=".ult-team-member-bio-wrap.ultimate-heading5ac2aafde8f78 .ult-team-member-name" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
-													  style="">Odunola Oladejo '17</h2>
-												</a>
-												<div style="margin-bottom:15px"></div>
-												<div class="ult-social-buttons">
-													<a href="mailto:odunola.oladejo@board.ssdp.org" target="_blank" title="Email" class="ult-team ult-social-icon" style="font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;" data-iconcolor="#faa732" data-iconhover="inherit">
-														<i class="Defaults-envelope-o"></i>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="boc_divider_holder">
-										<div class="boc_divider  " style="margin-bottom: 20px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"></div>
-									</div>
-								</div>
-							</div>
-						</div>
-
 					</div>
 
 					<div class="vc_row wpb_row vc_row-fluid">
@@ -546,6 +507,44 @@
 						<div class="wpb_column vc_column_container vc_col-sm-1">
 							<div class="vc_column-inner ">
 								<div class="wpb_wrapper"></div>
+							</div>
+						</div>
+						<!-- Odunola -->
+						<div class="wpb_column vc_column_container vc_col-sm-2">
+							<div class="vc_column-inner ">
+								<div class="wpb_wrapper">
+									<div class="ult-team-member-wrap ult-style-3   vc_custom_1485931248421">
+										<div class="ult-team-member-image ultimate-heading5ac2aafde8f78" style="; background-color:#faa732" data-hover_opacity="0.1">
+											<a href="#odunola-oladejo">
+												<img class="" src="https://ssdp.org/wp-content/uploads/2018/04/OdunolaOladejo.jpg" alt="">
+												<span class="ult-team-member-image-overlay "></span>
+												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde8f78 .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
+													style="color:#ffffff;; text-align:center;; ">
+													<p>
+														<em>SSDP Nigeria</em>
+													</p>
+												</div>
+											</a>
+										</div>
+										<div class="ult-team-member-bio-wrap style-3 ultimate-heading5ac2aafde8f78" style="text-align:center;; ">
+											<div class="ult-team-member-name-wrap">
+												<a href="#odunola-oladejo" style="text-decoration: none;">
+													<h2 class="ult-team-member-name ult-responsive" data-ultimate-target=".ult-team-member-bio-wrap.ultimate-heading5ac2aafde8f78 .ult-team-member-name" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
+														style="">Odunola Oladejo '17</h2>
+												</a>
+												<div style="margin-bottom:15px"></div>
+												<div class="ult-social-buttons">
+													<a href="mailto:odunola.oladejo@board.ssdp.org" target="_blank" title="Email" class="ult-team ult-social-icon" style="font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;" data-iconcolor="#faa732" data-iconhover="inherit">
+														<i class="Defaults-envelope-o"></i>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="boc_divider_holder">
+										<div class="boc_divider  " style="margin-bottom: 20px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"></div>
+									</div>
+								</div>
 							</div>
 						</div>
 						<!-- Emma -->
@@ -598,7 +597,7 @@
 												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde453f .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
 												  style="color:#ffffff;; text-align:center;; ">
 													<p>
-														<em>Criminal Justic Policy Foundation</em>
+														<em>Criminal Justice Policy Foundation</em>
 													</p>
 												</div>
 											</a>
@@ -624,46 +623,7 @@
 								</div>
 							</div>
 						</div>
-						<!-- Michael -->
-						<div class="wpb_column vc_column_container vc_col-sm-2">
-							<div class="vc_column-inner ">
-								<div class="wpb_wrapper">
-									<div class="ult-team-member-wrap ult-style-3   vc_custom_1495726800933">
-										<div class="ult-team-member-image ultimate-heading5ac2aafde69da" style="; background-color:#faa732" data-hover_opacity="0.1">
-											<a href="#michael-williams">
-												<img class="" src="https://ssdp.org/wp-content/uploads/2018/10/Headshots-SSDP-2018-0836-L.jpg" alt="">
-												<span class="ult-team-member-image-overlay "></span>
-												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde69da .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
-												  style="color:#ffffff;; text-align:center;; ">
-													<p>
-														<span style="color: #ffffff;">
-															<em>Ferris State University</em>
-														</span>
-													</p>
-												</div>
-											</a>
-										</div>
-										<div class="ult-team-member-bio-wrap style-3 ultimate-heading5ac2aafde69da" style="text-align:center;; ">
-											<div class="ult-team-member-name-wrap">
-												<a href="#michael-williams" style="text-decoration: none;">
-													<h2 class="ult-team-member-name ult-responsive" data-ultimate-target=".ult-team-member-bio-wrap.ultimate-heading5ac2aafde69da .ult-team-member-name" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
-													  style="">Michael Williams '15</h2>
-												</a>
-												<div style="margin-bottom:15px"></div>
-												<div class="ult-social-buttons">
-													<a href="mailto:michael.williams@board.ssdp.org" target="_blank" title="Email" class="ult-team ult-social-icon" style="font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;" data-iconcolor="#faa732" data-iconhover="inherit">
-														<i class="Defaults-envelope-o"></i>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="boc_divider_holder">
-										<div class="boc_divider  " style="margin-bottom: 20px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"></div>
-									</div>
-								</div>
-							</div>
-						</div>
+
 						<!-- Riley -->
 						<div class="wpb_column vc_column_container vc_col-sm-2">
 							<div class="vc_column-inner ">
@@ -692,6 +652,46 @@
 												<div style="margin-bottom:15px"></div>
 												<div class="ult-social-buttons">
 													<a href="mailto:riley.tillitt@board.ssdp.org " target="_blank" title="Email" class="ult-team ult-social-icon" style="font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;" data-iconcolor="#faa732" data-iconhover="inherit">
+														<i class="Defaults-envelope-o"></i>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="boc_divider_holder">
+										<div class="boc_divider  " style="margin-bottom: 20px;width: 60%;margin-left: auto; margin-right: auto;height: 1px;background: #eeeeee;"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- Michael -->
+						<div class="wpb_column vc_column_container vc_col-sm-2">
+							<div class="vc_column-inner ">
+								<div class="wpb_wrapper">
+									<div class="ult-team-member-wrap ult-style-3   vc_custom_1495726800933">
+										<div class="ult-team-member-image ultimate-heading5ac2aafde69da" style="; background-color:#faa732" data-hover_opacity="0.1">
+											<a href="#michael-williams">
+												<img class="" src="https://ssdp.org/wp-content/uploads/2018/10/Headshots-SSDP-2018-0836-L-e1538434025212.jpg" alt="">
+												<span class="ult-team-member-image-overlay "></span>
+												<div class="ult-team-member-description ult-responsive" data-ultimate-target=".ult-team-member-image.ultimate-heading5ac2aafde69da .ult-team-member-description" data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:12px;&quot;,&quot;line-height&quot;:&quot;&quot;}"
+												  style="color:#ffffff;; text-align:center;; ">
+													<p>
+														<span style="color: #ffffff;">
+															<em>Ferris State University</em>
+														</span>
+													</p>
+												</div>
+											</a>
+										</div>
+										<div class="ult-team-member-bio-wrap style-3 ultimate-heading5ac2aafde69da" style="text-align:center;; ">
+											<div class="ult-team-member-name-wrap">
+												<a href="#michael-williams" style="text-decoration: none;">
+													<h2 class="ult-team-member-name ult-responsive" data-ultimate-target=".ult-team-member-bio-wrap.ultimate-heading5ac2aafde69da .ult-team-member-name" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
+													  style="">Michael Williams '15</h2>
+												</a>
+												<div style="margin-bottom:15px"></div>
+												<div class="ult-social-buttons">
+													<a href="mailto:michael.williams@board.ssdp.org" target="_blank" title="Email" class="ult-team ult-social-icon" style="font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;" data-iconcolor="#faa732" data-iconhover="inherit">
 														<i class="Defaults-envelope-o"></i>
 													</a>
 												</div>
