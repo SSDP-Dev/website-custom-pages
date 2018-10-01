@@ -519,7 +519,7 @@
                           </a>
                           <div class="ult-team-member-position ult-responsive" data-ultimate-target='.ult-team-member-bio-wrap.ultimate-heading5b22b1de939b7 .ult-team-member-position' data-responsive-json-new='{"font-size":"","line-height":""}' style="">Europe Global Fellow</div>
                           <div style="margin-bottom:15px"></div>
-                          <div class='ult-social-buttons'><a href='mailto:orsi@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a>
+                          <div class='ult-social-buttons'><a href='mailto:orsi.feher@ssdp.org' target='_blank' title='Email' class='ult-team ult-social-icon' style='font-size:16px ; margin-left:5px;margin-right:5px;;color:#faa732;' data-iconcolor='#faa732' data-iconhover='inherit'><i class='Defaults-envelope-o'></i></a>
 
                           </div>
                         </div>
